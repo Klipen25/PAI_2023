@@ -1,2 +1,2 @@
 # PAI_2023
-Tak
+Jedrzej Gasiorowski
