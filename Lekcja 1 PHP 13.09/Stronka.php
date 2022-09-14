@@ -9,10 +9,10 @@
 	<p>This is a paragraph.</p>
 	
 	<?php
-	$txt = "1";
-	echo "Mam całe $txt pomarańczy<br>";
-	echo "Lubie tą $txt pomarańcz<br>";
-	echo "Nie mam $txt pomarańczy <br>";
+	$zmin = 5;
+	if ($zmin == 0) echo "Brak wiadomości.";
+	else echo "Masz ", $zmin, " wiadomości.";
+	
 	?>
 
 </body>
